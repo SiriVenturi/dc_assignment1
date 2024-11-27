@@ -7,7 +7,7 @@
 #include <math.h>
 #include <calcLib.h>
 
-#define DEBUG
+// #define DEBUG
 
 #define BUFFER_SIZE 1024
 
